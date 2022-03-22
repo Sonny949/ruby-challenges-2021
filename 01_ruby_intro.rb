@@ -12,6 +12,7 @@
 
 # Once you are able to output the correct output when running your code, try finding a way to get input from a user when they run your code. 
 # Then convert that input to a new "th" replaced string
+<<<<<<< HEAD
 
 puts "Daffy's s converter. Please enter a sentence:"
 sentence = gets.chomp.downcase
@@ -23,3 +24,5 @@ else
     puts "There'th no th'th in thith thententh!"
 end
 
+=======
+>>>>>>> origin/01_ruby_intro
